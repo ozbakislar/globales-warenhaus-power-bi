@@ -1,7 +1,5 @@
 # 📖 **Sprachen:** **Deutsch** | [Türkçe](README_TR.md)
 
----
-
 # 🛒 Globales Warenhaus-Projekt
 
 Dieses Projekt ist ein interaktives Power BI Dashboard, das globale Verkaufsdaten eines fiktiven Warenhauses visualisiert und analysiert. Ziel war es, aussagekräftige Einblicke in drei zentrale Bereiche zu gewinnen: die Leistung einzelner Produkte und Kategorien, das Kaufverhalten und die Segmentierung der Kunden sowie die geografische Verteilung der Umsätze weltweit. Das Dashboard wurde mit einem einheitlichen lila Farbschema gestaltet und ermöglicht durch interaktive Filter und eine gemeinsame Navigationsseite eine intuitive Bedienung.
